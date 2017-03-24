@@ -2031,7 +2031,7 @@
         },
 
         showDialog: function($dialog) {
-            $dialog.modal('show');
+            // $dialog.modal('show');
         },
 
         hideDialog: function($dialog) {
